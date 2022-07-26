@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppTextInputLayout</string>
+    <string name="password">Password</string>
+</resources>
